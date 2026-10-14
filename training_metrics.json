@@ -1,0 +1,18 @@
+[
+    {
+        "model": "solar_generation",
+        "mae": 3.12
+    },
+    {
+        "model": "wind_generation",
+        "mae": 21.31
+    },
+    {
+        "model": "energy_consumption",
+        "mae": 2.19
+    },
+    {
+        "model": "source_recommendation",
+        "accuracy": 1.0
+    }
+]
